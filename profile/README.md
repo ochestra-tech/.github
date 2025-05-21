@@ -10,7 +10,7 @@ This document outlines a high-level specification for a unified solution and com
 
 The Unified Kubernetes Management Platform provides a complete solution for managing, monitoring, troubleshooting, and optimizing Kubernetes environments across multi-cloud, hybrid, and on-premises deployments. It eliminates the need for multiple disparate tools, reduces complexity, and lowers the operational burden on DevOps and platform engineering teams.
 
-### 3.2 Target Users
+### 2.2 Target Users
 
 - **Platform Engineers**: Professionals responsible for building and maintaining the organization's Kubernetes infrastructure
 - **DevOps Engineers**: Teams handling day-to-day Kubernetes operations and deployments
@@ -35,7 +35,7 @@ The Unified Kubernetes Management Platform provides a complete solution for mana
 
 The platform follows a modular, microservices-based architecture with the following key components:
 
-![Systems Architecture](/images/hla.svg "Ochestra's System Architecture")
+![Systems Architecture](https://github.com/ochestra-tech/ochestra.ai/blob/main/images/hla.svg "Ochestra's System Architecture")
 
 - **Central Management Plane**: Core control plane for managing all Kubernetes clusters
 - **Agent-based Architecture**: Lightweight agents deployed in each managed cluster
@@ -324,6 +324,6 @@ Comprehensive APIs for programmatic platform interaction:
 
 ## 10. Conclusion
 
-The Unified Kubernetes Management platform - Ochestra AI automates the complete lifecycle of Kubernetes management—from provisioning and application deployment to troubleshooting, security, and cost optimization. The platform enables organizations to streamline operations, reduce costs, and improve reliability.
+The Unified Kubernetes Management platform - kubeopera automates the complete lifecycle of Kubernetes management—from provisioning and application deployment to troubleshooting, security, and cost optimization. The platform enables organizations to streamline operations, reduce costs, and improve reliability.
 
 The modular architecture allows for flexible deployment options and scalable growth, while the AI-powered analytics engine delivers intelligent automation and insights. By providing both platform teams and developers with powerful, user-friendly tools, the platform supports a collaborative approach to Kubernetes management that balances operational control with development agility.
