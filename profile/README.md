@@ -1,9 +1,5 @@
 # Platform Design Specification
 
-## 1. Executive Summary
-
-This document outlines a high-level specification for a unified solution and comprehensive cloud -native application management platform - OCHESTRA. The platform aims to address the complete lifecycle of cloud - native deployments, from k8's cluster management and observability to cost optimization and troubleshooting, enabling organizations to efficiently manage their containerized infrastructure at scale.
-
 ## 2. System Overview
 
 ### 2.1 Purpose
