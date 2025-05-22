@@ -44,57 +44,12 @@ The platform follows a modular, microservices-based architecture with the follow
 - **Extension Framework**: Allows custom integrations and plugins
 
 
-## Core Functionalities
-
-### Cluster Management
-
-- **Multi-cluster Provisioning**: Create and manage clusters across any infrastructure
-- **Centralized Control**: Unified management interface for all Kubernetes environments
-- **Cluster Templates**: Standardized cluster configurations with governance policies
-- **Cluster Upgrades**: Seamless Kubernetes version upgrades with minimal disruption
-- **Multi-tenancy**: Project-based separation with granular access controls
-- **Infrastructure Integration**: Support for all major cloud providers, on-premises, and edge
-- **Application Catalog**: Deploy applications from a curated catalog with Helm integration
-
-### Observability and Troubleshooting
-
-- **Real-time Monitoring**: Comprehensive visibility into cluster health and performance
-- **AI-powered Root Cause Analysis**: Automated troubleshooting with Klaudia GenAI agent
-- **Change Timeline**: Chronological view of all configuration changes and events
-- **Service Dependencies**: Visualization of relationships between Kubernetes resources
-- **Automated Remediation**: Guided playbooks for resolving common issues
-- **Drift Detection**: Identify configuration drift across clusters and environments
-- **Risk Detection**: Proactive identification of reliability and security risks
-
-### Cost Optimization
-
-- **Resource Utilization Analysis**: Detailed insights into CPU, memory, and storage usage
-- **Automated Rightsizing**: Intelligent recommendation and adjustment of resource requests
-- **Dynamic Autoscaling**: Automatic scaling based on actual workload demands
-- **Instance Selection**: Optimal node selection for price-performance ratio
-- **Spot Instance Automation**: Leverage spot/preemptible instances with high availability
-- **Cost Allocation**: Detailed cost breakdowns by namespace, deployment, and service
-- **Budget Management**: Set spending limits and receive alerts on cost anomalies
-
-### Security and Compliance
-
-- **Security Posture Management**: Continuous assessment against best practices
-- **Policy Enforcement**: Apply and enforce security policies across all clusters
-- **Compliance Scanning**: Check clusters against CIS benchmarks and other standards
-- **RBAC Management**: Comprehensive role-based access control
-- **Secrets Management**: Secure handling of sensitive configuration data
-- **Audit Logging**: Detailed audit trails for all management actions
-- **Vulnerability Scanning**: Identify vulnerabilities in container images and runtime
-
-### Application Lifecycle Management
-
-- **Workload Deployment**: Simplified application deployment across clusters
-- **Configuration Management**: Centralized management of ConfigMaps and Secrets
-- **GitOps Integration**: Support for GitOps workflows with tools like FluxCD and ArgoCD
-- **Release Management**: Controlled rollouts, canary deployments, and blue-green testing
-- **Service Mesh Integration**: Native support for Istio and other service mesh technologies
-- **Stateful Application Support**: Enhanced tooling for managing stateful workloads
-- **Multi-cluster Applications**: Deploy applications across multiple clusters
+- Core Functionalities
+- Cluster Management
+- Observability and Troubleshooting
+- Cost Optimization
+- Security and Compliance
+- Application Lifecycle Management
 
 ## Our Key Projects
 
