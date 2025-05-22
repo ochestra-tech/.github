@@ -60,7 +60,6 @@ Our most important repositories are pinned above. Here's what they do:
 - **KubeForge-Cli**: Installs Kubernetes on a remote VM from any of the major cloud providers
 - **KubeMonitor**: Automate the management and tracking of Kubernetes workload healths and cost
 - **KubeOpera**: One platform to manage everything Kubernetes
-- ...
 
 ## Get Involved
 
