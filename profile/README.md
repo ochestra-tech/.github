@@ -43,8 +43,8 @@ The platform follows a modular, microservices-based architecture with the follow
 - **Web UI**: Comprehensive user interface for platform interaction
 - **Extension Framework**: Allows custom integrations and plugins
 
+## Core Functionalities
 
-- Core Functionalities
 - Cluster Management
 - Observability and Troubleshooting
 - Cost Optimization
