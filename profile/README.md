@@ -1,4 +1,4 @@
-# Platform Design Specification
+# Platform Design Specification for KubeOpera
 
 The Unified Kubernetes Management platform - kubeopera automates the complete lifecycle of Kubernetes management—from provisioning and application deployment to troubleshooting, security, and cost optimization. The platform enables organizations to streamline operations, reduce costs, and improve reliability.
 
