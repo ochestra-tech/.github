@@ -6,7 +6,7 @@ Ochestra provides a unified Kubernetes management tool that automates the comple
 
 ### Purpose
 
-KubeOpera provides a complete solution for managing, monitoring, troubleshooting, and optimizing Kubernetes environments across multi-cloud, hybrid, and on-premises deployments. It eliminates the need for multiple disparate tools, reduces complexity, and lowers the operational burden on DevOps and platform engineering teams.
+The tool provides a complete solution for managing, monitoring, troubleshooting, and optimizing Kubernetes environments across multi-cloud, hybrid, and on-premises deployments. It eliminates the need for multiple disparate tools, reduces complexity, and lowers the operational burden on DevOps and platform engineering teams.
 
 ### Target Users
 
