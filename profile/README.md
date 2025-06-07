@@ -1,6 +1,6 @@
 # K8's Management & Optimization Tool 
 
-Ochestra provides a unified Kubernetes Management tool that automates the complete lifecycle of Kubernetes cluster setup and operations, from provisioning and application deployment to troubleshooting, security, and cost optimization. The tool would enable organizations to streamline operations, reduce costs, and improve reliability while maintaining optimum workload performance.
+Ochestra provides a unified Kubernetes management tool that automates the complete Kubernetes lifecycle, from provisioning and application deployment to troubleshooting, security, and cost optimization. The tool would enable organizations to streamline operations, reduce costs, and improve reliability while maintaining optimum workload performance.
 
 ## System Overview
 
