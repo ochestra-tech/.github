@@ -33,7 +33,7 @@ The tool provides a complete solution for managing, monitoring, troubleshooting,
 
 The platform follows a modular, microservices-based architecture with the following key components:
 
-![Systems Architecture](https://github.com/ochestra-tech/ochestra.ai/blob/main/images/hla.png "Ochestra's System Architecture")
+![Systems Architecture](https://github.com/ochestra-tech/ochestra.ai/blob/main/images/hla.svg "Ochestra's System Architecture")
 
 - **Central Management Plane**: Core control plane for managing all Kubernetes clusters
 - **Agent-based Architecture**: Lightweight agents deployed in each managed cluster
