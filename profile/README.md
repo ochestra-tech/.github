@@ -8,24 +8,6 @@ Ochestra presents Kubeopera, A light-weight  cloud-native application orchestrat
 
 The tool provides a complete solution for managing, monitoring, troubleshooting, and optimizing Kubernetes environments across multi-cloud, hybrid, and on-premises deployments. It eliminates the need for multiple disparate tools, reduces complexity, and lowers the operational burden on DevOps and platform engineering teams.
 
-### Target Users
-
-- **Platform Engineers**: Professionals responsible for building and maintaining the organization's Kubernetes infrastructure
-- **DevOps Engineers**: Teams handling day-to-day Kubernetes operations and deployments
-- **SREs/Operations Teams**: Personnel responsible for reliability, troubleshooting, and incident response
-- **FinOps Teams**: Staff focused on cloud cost optimization and efficiency
-- **Security Teams**: Professionals ensuring Kubernetes environments meet compliance and security requirements
-- **Developers**: Application teams deploying workloads on Kubernetes
-
-### Core Objectives
-
-- Unify cluster management, troubleshooting, and cost optimization into a single platform
-- Simplify Kubernetes operations through automation and intelligent recommendations
-- Reduce cloud costs through advanced resource optimization techniques
-- Improve reliability and security through proactive monitoring and enforcement
-- Enhance troubleshooting capabilities through AI-powered root cause analysis
-- Enable seamless management across diverse Kubernetes environments (multi-cloud, hybrid, edge)
-- Provide developers with self-service capabilities while maintaining operational control
 
 ## System Architecture
 
