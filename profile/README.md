@@ -1,6 +1,6 @@
 # Kubeopera by Ochestra - a Unified Cloud-Native Infrastructure Management & Optimization Platform
 
-Ochestra presents Kubeopera, A light-weight  cloud-native application orchestration and management platform tool, that automates the complete Kubernetes lifecycle, from provisioning and application deployment to troubleshooting, security, and cost optimization. The tool would enable organizations to streamline operations, reduce costs, and improve reliability while maintaining optimum workload performance.
+Ochestra presents Kubeopera, a light-weight  cloud-native application deployment, and management platform tool built on Kubernetes. Kubeopera automates the complete Kubernetes lifecycle, from provisioning and application deployment to troubleshooting, security, and cost optimization. The tool is designed from ground up to help organizations streamline cloud operations, reduce costs, and improve reliability while maintaining optimum workload performance at all times.
 
 ## System Overview
 
